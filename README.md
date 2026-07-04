@@ -1,2 +1,2 @@
 # Nous sommes dans la branche B
-Description du projet
+Description de ce projet
