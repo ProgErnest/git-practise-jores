@@ -1,2 +1,2 @@
-# Nous sommes dans la branche B
-Description de ce projet
+# Nous sommes dans la branche Gallery
+Ici c'est la gallery de l'application
